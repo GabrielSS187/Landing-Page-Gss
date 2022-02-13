@@ -5,7 +5,7 @@
 </h1>
 
 <h1 align="center">Site do Projeto
-<a href="https://healthy-food-gss.surge.sh/Register">
+<a href="https://healthy-food-gss.surge.sh/">
 Aqui</a></h1>
 
 
