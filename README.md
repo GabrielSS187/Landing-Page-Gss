@@ -13,6 +13,12 @@ Aqui</a></h1>
 
 **Landing Page Gss** É um projeto que consiste em uma Landing Page simples, com um visual mais moderno atualmente. E com um formulário de registro com preenchimento automatico dos outros campos após o preenchimento do cep. Isso e possível por que eu busco de uma api de Cep,  dessa api eu faço uma requisição para buscar as informções do Cep. E também os dados do registro são armazenados dentro do Local Storage e no Cookies do site.
 
+
+![Captura de Tela (120)](https://user-images.githubusercontent.com/86306877/179429322-1a278464-d0af-4580-8ba4-8faa39abf19a.png)
+![Captura de Tela (123)](https://user-images.githubusercontent.com/86306877/179429321-0d558669-6e45-4fcf-b4a3-f0c1c3160936.png)
+![Captura de Tela (121)](https://user-images.githubusercontent.com/86306877/179429323-b279fdd3-a743-4ebe-a41f-6f893a2af2b4.png)
+![Captura de Tela (122)](https://user-images.githubusercontent.com/86306877/179429320-20ff94c3-c648-4527-900f-422e3d8ce22a.png)
+
 ## 🔨 Tecnológias usadas
 
 - [React](https://pt-br.reactjs.org/) 💚
